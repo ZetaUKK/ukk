@@ -17,4 +17,6 @@
 * [Задачи](zadachi.md)
 * [Затраты](zatraty/README.md)
   * [Виды затрат](zatraty/vidy-zatrat.md)
+* [Аналитика](analitika/README.md)
+  * [Дополнительные разрезы аналитики](analitika/dopolnitelnye-razrezy-analitiki.md)
 
