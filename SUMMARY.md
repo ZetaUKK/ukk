@@ -3,6 +3,7 @@
 * [Zeta Управление консалтинговой компанией. База знаний](README.md)
 * [Варианты работы](varianty-raboty/README.md)
   * [Первый вариант работы](varianty-raboty/pervyi-variant-raboty.md)
+* [Услуги](uslugi.md)
 * [Клиенты](klienty/README.md)
   * [Договор с клиентом](klienty/dogovor-s-klientom.md)
 * [Работы](raboty/README.md)
