@@ -7,13 +7,13 @@
 
 По умолчанию доступны оба интерфейса. Переключение интерфейса доступно в правой области над календарём.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ## Интерфейс "Неделя"
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 ## Интерфейс "День"
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
