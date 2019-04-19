@@ -10,10 +10,11 @@
   * [Параметры работы](raboty/parametry-raboty.md)
   * [Создание работы](raboty/sozdanie-raboty.md)
 * [Типовые события](tipovye-sobytiya.md)
-* [Фиксирование рабочего времени](fiksirovanie-rabochego-vremeni.md)
+* [Лента времени](fiksirovanie-rabochego-vremeni.md)
 * [Приемка и расчет работ](priemka-i-raschet-rabot.md)
 * [Выставление работ клиентам](vystavlenie-rabot-klientam.md)
 * [Контроль выставленных документов](kontrol-vystavlennykh-dokumentov.md)
 * [Задачи](zadachi.md)
-* [Затраты](zatraty.md)
+* [Затраты](zatraty/README.md)
+  * [Виды затрат](zatraty/vidy-zatrat.md)
 
