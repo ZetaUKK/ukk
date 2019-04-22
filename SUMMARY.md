@@ -17,6 +17,7 @@
 * [Приемка и расчет работ](priemka-i-raschet-rabot/README.md)
   * [Приемка работ](priemka-i-raschet-rabot/priemka-rabot.md)
   * [Расчет работ](priemka-i-raschet-rabot/raschet-rabot.md)
+  * [Согласование](priemka-i-raschet-rabot/soglasovanie.md)
 * [Выставление работ клиентам](vystavlenie-rabot-klientam.md)
 * [Контроль выставленных документов](kontrol-vystavlennykh-dokumentov.md)
 * [Задачи](zadachi.md)
